@@ -2,3 +2,7 @@
 *.swcdn.apple.com
 *.itunes-apple.com
 *.swscan.apple.com
+mzstatic.com
+swcdn.apple.com
+itunes-apple.com
+swscan.apple.com
